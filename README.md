@@ -1,1 +1,18 @@
 # interactive_maps_test
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+        <script defer src="https://pyscript.net/unstable/pyscript.js"></script>
+    </head>
+    <body>
+
+<py-script output="out">
+print("Hello world")
+</py-script>
+
+<div id="out"></div>
+
+    </body>
+
+</html>
